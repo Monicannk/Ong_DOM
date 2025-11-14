@@ -134,6 +134,8 @@ ONG-DOM-final/
 
 ## 🚀 Como Executar
 
+### Link direto do site: https://monicannk.github.io/Ong_DOM/
+
 ### Pré-requisitos
 
 - Navegador web moderno (Chrome, Firefox, Edge)
